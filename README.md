@@ -1,3 +1,9 @@
+# Contact Manager
+
+Contact manager is an application which takes a list of contacts and displays them using React with added responsive functionality to edit and/or delete contacts. The contacts themselves are provided by JSONPlaceholder, a fake online REST API. This project was designed to be an introduction to React and components.
+
+The initial commit is the base version of the project, created by following an older version of the 'React Front To Back' course by Brad Traversy available on Udemy: https://www.udemy.com/modern-react-front-to-back/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
